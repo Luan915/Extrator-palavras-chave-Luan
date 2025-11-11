@@ -21,6 +21,7 @@ body {
     flex-direction: column;
 }
 
+
 .container {
     display: flex;
     width: 65rem;
@@ -37,8 +38,6 @@ h1 {
     font-weight: 600;
     text-transform: uppercase;
 }
-
-
 
 #entrada-de-texto {
     display: flex;
